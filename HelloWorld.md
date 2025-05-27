@@ -25,7 +25,7 @@ Application Analyst with over 5 years of hands-on experience in application life
 ## 💼 Professional Experience
 
 ### Application Analyst – TSCNET Services GmbH  
-*Dec 2022 – Present | Munich, Germany*  
+*12/2022 – Present | Munich, Germany*  
 - Increased the KPIs of SLA from 50% to 99% in one and a half year.  
 - Architecture, initiation and maintenance of CI/CD pipelines in Gitlab  
 -  Built and interpreted dashboards for monitoring logs and system metrics [Grafana](https://grafana.com)  
@@ -35,7 +35,7 @@ Application Analyst with over 5 years of hands-on experience in application life
 - Grafana, python, bash, powershell, Gitlab CI/CD, .NET, Git, PostgreSQL
 
 ### Research Associate / Energy Analyst – HAEE (Hellenic Association for Energy Economics)  
-*2020 – 2022 | Athens, Greece*  
+*10/2020 – 11/2022 | Athens, Greece*  
 - Co-author of report on national regulation and policy analysis for e-mobility markets  
 - Co-author of the [Greek Energy Market Report 2022](https://haee.gr/research/publications/reports/) and client-facing deliverables related to ESG  
 - Built dynamic Excel models with VBA for to assess cost-benefit feasibity of hydrogen projects
@@ -55,17 +55,15 @@ Application Analyst with over 5 years of hands-on experience in application life
 - Open Source Energy System modeling with OSeMOSYS
 
 ### Assistant Officer – Hellenic Army  
-*Nov 2017 – Aug 2018 | Greece*  
+*11/2017 – 08/2018 | Greece*  
 - Mandatory national service required by Greek law  
 - Task coordination and logistics planning 
 - Developed key skills in responsibility, teamwork, and time management under structured environments
 
 ### Mechanical Engineering Intern – New Cooperative of ThermoHydraulics  
-*2016 – 2017 | Larissa, Greece*  
+*09/2016 – 04/2017 | Larissa, Greece*  
 - Conducted energy assessments of residential buildings  
 - Supported field measurements and simulation analysis for thermal efficiency reporting
-
----
 
 ---
 
@@ -102,4 +100,4 @@ University of Thessaly – Greece, 2018
 
 ---
 
-> ✅ This CV is also available on [GitHub](https://github.com/yourusername/cv) — built using Markdown for open-source DevOps visibility.
+> ✅ This CV is also available on [GitHub](https://github.com/ng44/cv) — built using Markdown for open-source DevOps visibility.
