@@ -5,9 +5,9 @@ Munich, Germany • nikolaos.georgiadis.01@gmail.com • [LinkedIn](https://link
 
 ---
 
-## 👤 Profile
+## 👋 Profile
 
-Application Analyst with over 5 years of hands-on experience in application lifecycle management, DevOps practices, and 3rd Level Support. Adept at managing production systems, identifying root causes, and implementing permanent fixes across distributed infrastructures. Skilled in CI/CD pipeline management, secure deployments, and compliance with ISO/IEC 27001. Passionate about energy systems and process optimization with an MSc in Environmental & Energy Management.
+Hi! I'm Nikolaos – a solution-focused Application Analyst with a strong tilt toward DevOps and platform reliability. Over the past five years, I’ve tackled complex challenges in energy systems, built smarter deployment pipelines, and handled critical incidents with a cool head. I love scripting smart fixes, optimizing workflows, and keeping the infrastructure stable and scalable. Currently based in Munich, I'm always looking to collaborate on impactful projects that blend energy tech, automation, and open-source values.
 
 ---
 
