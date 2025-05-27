@@ -41,7 +41,7 @@ Hi! I'm Nikolaos – a solution-focused Application Analyst with a strong tilt t
 - Co-author of the [Greek Energy Market Report 2022](https://haee.gr/research/publications/reports/) and client-facing deliverables related to ESG  
 - Built dynamic Excel models with VBA for to assess cost-benefit feasibity of hydrogen projects
 
-## 📚 Internships
+## 💡 Internships
 
 ### Energy Modeler – Deltares  
 *04/2020-11/2020 | Delft, Netherlands*  
