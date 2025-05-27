@@ -26,9 +26,10 @@ Application Analyst with over 5 years of hands-on experience in application life
 
 ### Application Analyst – TSCNET Services GmbH  
 *12/2022 – Present | Munich, Germany*  
-- Increased the KPIs of SLA from 50% to 99% in one and a half year.  
-- Architecture, initiation and maintenance of CI/CD pipelines in Gitlab  
--  Built and interpreted dashboards for monitoring logs and system metrics [Grafana](https://grafana.com)  
+- Raised SLA fulfillment rates from 70% to 99,5% by optimizing workflows and reducing response time through proactive monitoring.
+- Architecture, initiation and maintenance of CI/CD pipelines in Gitlab
+- Achieved 20% reduction of efforts spent compared to manual intervention  
+- Built and interpreted dashboards for monitoring logs and system metrics [Grafana](https://grafana.com)  
 - Preparation of requirements repository documents to accelerate issue resolution  
 - Enforced ISO/IEC 27001-aligned practices during deployment, monitoring, and release management  
 - Acted as cross-team liaison with development and operations to ensure high availability and seamless updates
@@ -87,7 +88,7 @@ University of Thessaly – Greece, 2018
 
 ## 📘 Applied Courses & Tools
 
-- GitLab CI/CD | Grafana | Pyomo | GAMS | Homer | ArcGIS | PostgreSQL  
+- GitLab CI/CD | Grafana | PostgreSQL | Jira | ServiceNow | Confluence
 - Used in real-world projects: scripting in Python & PowerShell, modeling with Julia & GNU MathProg  
 
 ---
