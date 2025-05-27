@@ -1,6 +1,6 @@
 # Nikolaos Georgiadis
 
-**Application Analyst | DevOps Engineer | 3rd Level Support Specialist**  
+**Application Analyst | DevSecOps Engineer | 3rd Level Support Specialist**  
 Munich, Germany • nikolaos.georgiadis.01@gmail.com • [LinkedIn](https://linkedin.com/in/nickgeo01) • [GitHub](https://github.com/ng44)
 
 ---
