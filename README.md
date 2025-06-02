@@ -34,7 +34,7 @@ Hi! My name is Nikos, an Application Analyst-turned-DevSecOps specialist who has
 - Enforced ISO/IEC 27001-aligned practices during deployment, monitoring, and release management  
 - Acted as cross-team liaison with development and operations to ensure high availability and seamless updates
 - Contract management, Vendor management, Invoice handling and monitoring
-- Grafana, Python, bash, powershell, Gitlab CI/CD, .NET, Git, PostgreSQL, Jira, Kanban, Microsoft Office
+- Grafana, Python, bash, powershell, Gitlab CI/CD, .NET, Git, PostgreSQL, Agile, Jira, Kanban, Microsoft Office
 
 ### Research Associate / Energy Analyst – HAEE (Hellenic Association for Energy Economics)  
 *10/2020 – 11/2022 | Athens, Greece*  
