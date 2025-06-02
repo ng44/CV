@@ -7,7 +7,7 @@ Munich, Germany • nikolaos.georgiadis.01@gmail.com • [LinkedIn](https://link
 
 ## 👋 Profile
 
-Hi! I'm Nikolaos – a solution-focused Application Analyst with a strong tilt toward DevOps and platform reliability. Over the past five years, I’ve tackled complex challenges in energy systems, built smarter deployment pipelines, and handled critical incidents with a cool head. I love scripting smart fixes, optimizing workflows, and keeping the infrastructure stable and scalable. Currently based in Munich, I'm always looking to collaborate on impactful projects that blend energy tech, automation, and open-source values.
+Hi! My name is Nikos, an Application Analyst-turned-DevSecOps specialist who has spent five years hardening energy/power-industry platforms. In my role on third-level support, I have led a team of developers to implement foundational changes in legacy systems. The applications I work on achieve KPIs with success rates above 99.5 %, minimize the resolution time of critical incidents, and promote infrastructure-as-code and open-source tooling.
 
 ---
 
@@ -26,7 +26,7 @@ Hi! I'm Nikolaos – a solution-focused Application Analyst with a strong tilt t
 
 ### Application Analyst – TSCNET Services GmbH  
 *12/2022 – Present | Munich, Germany*  
-- Raised SLA fulfilment rates from 70% to 99,5% by optimising workflows and reducing response time through proactive monitoring.
+- Raised SLA fulfilment rates from 80% to 99,5% by optimising workflows and reducing response time through proactive monitoring.
 - Architecture, initiation and maintenance of CI/CD pipelines in Gitlab
 - Achieved a 20% reduction in the efforts spent compared to manual intervention  
 - Built and interpreted dashboards for monitoring logs and system metrics [Grafana](https://grafana.com)  
