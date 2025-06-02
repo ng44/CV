@@ -15,7 +15,7 @@ Hi! I'm Nikolaos – a solution-focused Application Analyst with a strong tilt t
 
 - **DevOps & CI/CD**: GitLab pipelines, secure deployments, environment automation  
 - **3rd Level Support**: Root cause analysis, advanced troubleshooting, escalation resolution, RCA documentation  
-- **Monitoring & Reliability**: Grafana, incident handling, system uptime optimization  
+- **Monitoring & Reliability**: Incident management, system uptime optimisation, Grafana  
 - **Requirements Engineering**: Functional analysis, BPMN modeling, agile workflows  
 - **Scripting & Tooling**: PowerShell, Python, Bash, PostgreSQL, QGIS  
 - **Security & Compliance**: DevSecOps, ISO/IEC 27001 principles, audit preparation
@@ -26,28 +26,29 @@ Hi! I'm Nikolaos – a solution-focused Application Analyst with a strong tilt t
 
 ### Application Analyst – TSCNET Services GmbH  
 *12/2022 – Present | Munich, Germany*  
-- Raised SLA fulfillment rates from 70% to 99,5% by optimizing workflows and reducing response time through proactive monitoring.
+- Raised SLA fulfilment rates from 70% to 99,5% by optimising workflows and reducing response time through proactive monitoring.
 - Architecture, initiation and maintenance of CI/CD pipelines in Gitlab
-- Achieved 20% reduction of efforts spent compared to manual intervention  
+- Achieved a 20% reduction in the efforts spent compared to manual intervention  
 - Built and interpreted dashboards for monitoring logs and system metrics [Grafana](https://grafana.com)  
 - Preparation of requirements repository documents to accelerate issue resolution  
 - Enforced ISO/IEC 27001-aligned practices during deployment, monitoring, and release management  
 - Acted as cross-team liaison with development and operations to ensure high availability and seamless updates
-- Grafana, python, bash, powershell, Gitlab CI/CD, .NET, Git, PostgreSQL
+- Contract management, Vendor management, Invoice handling and monitoring
+- Grafana, Python, bash, powershell, Gitlab CI/CD, .NET, Git, PostgreSQL, Jira, Kanban, Microsoft Office
 
 ### Research Associate / Energy Analyst – HAEE (Hellenic Association for Energy Economics)  
 *10/2020 – 11/2022 | Athens, Greece*  
-- Co-author of report on national regulation and policy analysis for e-mobility markets  
+- Co-author of national regulation and policy analyses for emerging e-mobility markets  
 - Co-author of the [Greek Energy Market Report 2022](https://haee.gr/research/publications/reports/) and client-facing deliverables related to ESG  
-- Built dynamic Excel models with VBA for to assess cost-benefit feasibity of hydrogen projects
+- Built dynamic Excel models with VBA to assess cost-benefit feasibility of hydrogen projects
 
 ## 💡 Internships
 
 ### Energy Modeler – Deltares  
 *04/2020-11/2020 | Delft, Netherlands*  
-- Development of an open source cost optimisation model 
+- Development of an open-source cost optimisation model 
 - Conducted policy-relevant scenario development
-- using GNU MathProg, GLPK, CPLEX, Gurobi, QGIS
+- using GNU MathProg, GLPK, CPLEX, Gurobi, QGIS, Excel
 - [Thesis](https://essay.utwente.nl/85297/1/Georgiadis_MSC_BMS.pdf)
 
 ### Energy Modeler – KTH Royal Institute of Technology  
@@ -89,7 +90,7 @@ University of Thessaly – Greece, 2018
 ## 📘 Applied Courses & Tools
 
 - GitLab CI/CD | Grafana | PostgreSQL | Jira | ServiceNow | Confluence
-- Used in real-world projects: scripting in Python & PowerShell, modeling with Julia & GNU MathProg  
+- Other courses: Bash, Docker, SSH, Nmap, Grafana, Prometheus, Selenium, Postgresql, Nmap
 
 ---
 
