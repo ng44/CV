@@ -17,7 +17,7 @@ Hi! My name is Nikos, an Application Analyst-turned-DevSecOps specialist who has
 - **3rd Level Support**: Root cause analysis, advanced troubleshooting, escalation resolution, RCA documentation  
 - **Monitoring & Reliability**: Incident management, system uptime optimisation, Grafana  
 - **Requirements Engineering**: Functional analysis, BPMN modeling, agile workflows  
-- **Scripting & Tooling**: PowerShell, Python, Bash, PostgreSQL, QGIS  
+- **Scripting & Tooling**: PowerShell, Python, Bash, PostgreSQL, Git, TortoiseGit 
 - **Security & Compliance**: DevSecOps, ISO/IEC 27001 principles, audit preparation
 
 ---
@@ -90,7 +90,7 @@ University of Thessaly – Greece, 2018
 ## 📘 Applied Courses & Tools
 
 - GitLab CI/CD | Grafana | PostgreSQL | Jira | ServiceNow | Confluence
-- Other courses: Bash, Docker, SSH, Nmap, Grafana, Prometheus, Selenium, Postgresql, Nmap
+- Other courses: Bash, Docker, SSH, Nmap, Grafana, Prometheus, Selenium, Postgresql, Nmap, QGIS, ArcGIS
 
 ---
 
