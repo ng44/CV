@@ -7,7 +7,7 @@ Munich, Germany • nikolaos.georgiadis.01@gmail.com • [LinkedIn](https://link
 
 ## 👋 Profile
 
-Hi! My name is Nikos, an Application Analyst-turned-DevSecOps specialist who has spent five years hardening energy/power-industry platforms. In my role on third-level support, I have led a team of developers to implement foundational changes in legacy systems. The applications I work on achieve KPIs with success rates above 99.5 %, minimize the resolution time of critical incidents, and promote infrastructure-as-code and open-source tooling.
+Hi! My name is Nikos, an Application Analyst-turned-DevSecOps specialist who has spent five years hardening energy/power-industry platforms. In my role on third-level support, I have led various teams of developers to implement foundational changes in legacy systems. The applications I work on achieve KPIs with success rates above 99.5 %, minimize the resolution time of critical incidents, and promote infrastructure-as-code and open-source tooling.
 
 ---
 
