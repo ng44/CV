@@ -13,7 +13,7 @@ Hi! My name is Nikos, an Application Analyst-turned-DevSecOps specialist who has
 
 ## 🚀 Core Skills
 
-- **DevOps & CI/CD**: GitLab pipelines, secure deployments, environment automation  
+- **DevOps & CI/CD**: GitLab pipelines, Release Management, secure deployments, environment automation,  
 - **3rd Level Support**: Root cause analysis, advanced troubleshooting, escalation resolution, RCA documentation  
 - **Monitoring & Reliability**: Incident management, system uptime optimisation, Grafana  
 - **Requirements Engineering**: Functional analysis, BPMN modeling, agile workflows  
