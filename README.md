@@ -26,7 +26,7 @@ Hi! My name is Nikos, an Application Analyst-turned-DevSecOps specialist who has
 
 ### Application Analyst – TSCNET Services GmbH  
 *12/2022 – Present | Munich, Germany*  
-- Raised SLA fulfilment rates from 80% to 99,5% by optimising workflows and reducing response time through proactive monitoring.
+- Raised SLA fulfilment rates from 70% to 80% in the first year, and to 99,5% the second year by optimising workflows and reducing response time through proactive monitoring.
 - Architecture, initiation and maintenance of CI/CD pipelines in Gitlab
 - Achieved a 20% reduction in the efforts spent compared to manual intervention  
 - Built and interpreted dashboards for monitoring logs and system metrics [Grafana](https://grafana.com)  
