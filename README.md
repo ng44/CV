@@ -37,7 +37,7 @@ Hi! My name is Nikos, an Application Analyst-turned-DevSecOps specialist who has
 - Grafana, Python, bash, powershell, Gitlab CI/CD, .NET, Git, PostgreSQL, Agile, Jira, Kanban, Microsoft Office
 
 ### Research Associate / Energy Analyst – HAEE (Hellenic Association for Energy Economics)  
-*10/2020 – 11/2022 | Athens, Greece*  
+*10/2021 – 11/2022 | Athens, Greece*  
 - Co-author of national regulation and policy analyses for emerging e-mobility markets  
 - Co-author of the [Greek Energy Market Report 2022](https://haee.gr/research/publications/reports/) and client-facing deliverables related to ESG  
 - Built dynamic Excel models with VBA to assess cost-benefit feasibility of hydrogen projects
