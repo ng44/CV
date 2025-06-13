@@ -13,7 +13,7 @@ Hi! My name is Nikos, an experienced professional who has spent five years harde
 
 ## 🚀 Core Skills
 
-- **DevOps & CI/CD**: GitLab pipelines, Release Management, secure deployments, environment automation,  
+- **DevOps & CI/CD**: GitLab pipelines, Release Management, secure deployments, environment automation  
 - **3rd Level Support**: Root cause analysis, advanced troubleshooting, escalation resolution, RCA documentation  
 - **Monitoring & Reliability**: Incident management, system uptime optimisation, Grafana  
 - **Requirements Engineering**: Functional analysis, BPMN modeling, agile workflows  
@@ -27,7 +27,8 @@ Hi! My name is Nikos, an experienced professional who has spent five years harde
 ### Application Analyst – TSCNET Services GmbH  
 *12/2022 – Present | Munich, Germany* 
 - Led 3 Go-Live developments of major projects ([Export Corner](https://www.linkedin.com/posts/tscnetservices_exportcorner-powertransmission-energyrevolution-activity-7163507922872844290-HxBa?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACjMBhsBEG-EC0eVaJFEg4bx8lF9BpZKWA8), [15MTU](https://www.linkedin.com/posts/andre-estermann-452b6b248_mcsc-sdac-sidc-activity-7288427818886062081-kbr7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACjMBhsBEG-EC0eVaJFEg4bx8lF9BpZKWA8), Calculation Updates)
-- Raised SLA fulfilment rates from 70% to 80% in the first year, and to 99,5% the second year by optimising workflows and reducing response time through proactive monitoring
+- Raised SLA fulfilment rates from 70% to 80% in the first year, and to 99,5% the second year
+- Optimisation applying Quadratic Programming (QP)
 - Architecture, initiation and maintenance of CI/CD pipelines in Gitlab
 - Achieved a 20% reduction in the efforts spent compared to manual intervention  
 - Built and interpreted dashboards for monitoring logs and system metrics [Grafana](https://grafana.com)  
@@ -35,7 +36,7 @@ Hi! My name is Nikos, an experienced professional who has spent five years harde
 - Enforced ISO/IEC 27001-aligned practices during deployment, monitoring, and release management  
 - Acted as cross-team liaison with development and operations to ensure high availability and seamless updates
 - Contract management, Vendor management, Invoice handling and monitoring
-- Grafana, Python, bash, powershell, Gitlab CI/CD, .NET, Git, PostgreSQL, Agile, Jira, Kanban, Microsoft Office
+- Grafana, Python, bash, powershell, Gitlab CI/CD, .NET, Git, PostgreSQL, Agile, Jira, Kanban, Gurobi, PowerFactory, Microsoft Office
 
 ### Research Associate / Energy Analyst – HAEE (Hellenic Association for Energy Economics)  
 *10/2021 – 11/2022 | Athens, Greece*  
@@ -47,7 +48,7 @@ Hi! My name is Nikos, an experienced professional who has spent five years harde
 
 ### Energy Modeler – Deltares  
 *04/2020-11/2020 | Delft, Netherlands*  
-- Development of an open-source cost optimisation model 
+- Development of an open-source cost optimisation model using a mixed integer linear approach 
 - Conducted policy-relevant scenario development
 - using GNU MathProg, GLPK, CPLEX, Gurobi, QGIS, Excel
 - [Thesis](https://essay.utwente.nl/85297/1/Georgiadis_MSC_BMS.pdf)
@@ -56,6 +57,7 @@ Hi! My name is Nikos, an experienced professional who has spent five years harde
 *10/2018-05/2019 | Stockholm, Sweden*  
 - Data gathering and synthesis for the CLEWs framework (Climate, Land, Energy, Water)  
 - Open Source Energy System modeling with OSeMOSYS
+- Mixed integer linear optimisation
 
 ### Assistant Officer – Hellenic Army  
 *11/2017 – 08/2018 | Greece*  
@@ -90,7 +92,7 @@ University of Thessaly – Greece, 2018
 
 ## 📘 Applied Courses & Tools
 
-- GitLab CI/CD | Grafana | PostgreSQL | Jira | ServiceNow | Confluence
+- GitLab CI/CD | Grafana | PostgreSQL | Jira | ServiceNow | Confluence | Gurobi | PowerFactory
 - Other courses: Bash, Docker, SSH, Nmap, Grafana, Prometheus, Selenium, Postgresql, Nmap, QGIS, ArcGIS
 
 ---
