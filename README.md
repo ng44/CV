@@ -84,7 +84,7 @@ University of Thessaly – Greece, 2018
 
 ## 📜 Certifications
 
-- DevSecOps Foundation – DevOps Institute *(July 2025)*  
+- DevSecOps Foundation – DevOps Institute 
 - ITIL v4 Foundation – Axelos  
 - The Physical and Financial Power Markets – Nord Pool  
 
