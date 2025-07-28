@@ -1,13 +1,13 @@
 # Nikolaos Georgiadis
 
-**Application Analyst | DevSecOps Engineer | 3rd Level Support Specialist**  
+**Power Systems | DevSecOps workflows | Data & IT Governance**  
 Munich, Germany • nikolaos.georgiadis.01@gmail.com • [LinkedIn](https://linkedin.com/in/nickgeo01) • [GitHub](https://github.com/ng44)
 
 ---
 
 ## 👋 Profile
 
-Hi! My name is Nikos, an experienced professional who has spent five years hardening energy/power-industry platforms. In my current role on third-level support, I have led various teams to implement foundational changes in legacy systems. The applications I work on achieve KPIs with success rates above 99.5 %, minimize the resolution time of critical incidents, and promote infrastructure-as-code and open-source tooling.
+Hi! My name is Nikos, an experienced professional who has spent five years hardening energy/power-industry platforms. In my current role on third-level support, I have led various teams to implement foundational changes in legacy systems. 
 
 ---
 
@@ -31,12 +31,12 @@ Hi! My name is Nikos, an experienced professional who has spent five years harde
 - Optimisation applying Quadratic Programming (QP)
 - Architecture, initiation and maintenance of CI/CD pipelines in Gitlab
 - Achieved a 20% reduction in the efforts spent compared to manual intervention  
-- Built and interpreted dashboards for monitoring logs and system metrics [Grafana](https://grafana.com)  
+- User of [Grafana](https://grafana.com) for obtaining system metrics
 - Preparation of requirements repository documents to accelerate issue resolution  
 - Enforced ISO/IEC 27001-aligned practices during deployment, monitoring, and release management  
 - Acted as cross-team liaison with development and operations to ensure high availability and seamless updates
 - Contract management, Vendor management, Invoice handling and monitoring
-- Grafana, Python, bash, powershell, Gitlab CI/CD, .NET, Git, PostgreSQL, Agile, Jira, Kanban, Gurobi, PowerFactory, Microsoft Office
+- Python, bash, powershell, Gitlab CI/CD, .NET, Grafana, Git, PostgreSQL, Agile, Jira, Kanban, Gurobi, PowerFactory, Microsoft Office
 
 ### Research Associate / Energy Analyst – HAEE (Hellenic Association for Energy Economics)  
 *10/2021 – 11/2022 | Athens, Greece*  
@@ -84,8 +84,8 @@ University of Thessaly – Greece, 2018
 
 ## 📜 Certifications
 
-- DevSecOps Foundation – DevOps Institute *(2025)*  
-- ITIL Foundation – Axelos  
+- DevSecOps Foundation – DevOps Institute *(July 2025)*  
+- ITIL v4 Foundation – Axelos  
 - The Physical and Financial Power Markets – Nord Pool  
 
 ---
@@ -93,7 +93,7 @@ University of Thessaly – Greece, 2018
 ## 📘 Applied Courses & Tools
 
 - GitLab CI/CD | Grafana | PostgreSQL | Jira | ServiceNow | Confluence | Gurobi | PowerFactory
-- Other courses: Bash, Docker, SSH, Nmap, Grafana, Prometheus, Selenium, Postgresql, Nmap, QGIS, ArcGIS
+- Other courses: Bash, Docker, SSH, Nmap, Grafana, Prometheus, Selenium, Postgresql, QGIS, ArcGIS
 
 ---
 
