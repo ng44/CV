@@ -43,7 +43,7 @@ Experienced professional with five years in energy/power-industry, specializing 
 - Co-author of the [Greek Energy Market Report 2022](https://haee.gr/research/publications/reports/) and client-facing deliverables related to ESG  
 - Built dynamic Excel models with VBA to assess cost-benefit feasibility of hydrogen projects
 - Co-Author of thematic and periodic reports ([1](https://www.haee.gr/FileServer?file=19ccae58-70ab-4fe7-a52b-b5a677729d05),[2](https://www.haee.gr/FileServer?file=9316d49f-6641-468b-aa01-3e02085f24ef),[3](https://www.haee.gr/FileServer?file=83ed46c4-7abe-48e1-839d-2b57d46849d0),[4](https://www.haee.gr/FileServer?file=52d82fef-b6c1-4a45-995d-b03a14cd68cb),[5](https://www.haee.gr/FileServer?file=18c23f90-afd9-4ce0-afad-301de6412748),[6](https://www.haee.gr/FileServer?file=f877a2d8-ac4a-4b2e-85a2-502a38054c3d))
-- Project proposal writing for nationa and european funding schemes (Horizon, LIFE)
+- Project proposal writing for national and European funding schemes (Horizon, LIFE)
 ## 💡 Internships
 
 ### Energy Modeler – Deltares  
